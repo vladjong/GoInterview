@@ -18,7 +18,13 @@ Adapter - преобразует интерфейс класса к другом
 
 Facade - это структура, которая маскирует более сложную систему и служит высокоуровневым интерфейсом для пользователя
 
-Пример паттерна](https://github.com/vladjong/L2/blob/develop/pattern/01_facade.go "Facade")
+[Пример паттерна](https://github.com/vladjong/L2/blob/develop/pattern/01_facade.go "Facade")
+
+## Template method
+
+Template method - задает скелет алгоритма в методе, оставляю определение реализации некоторых шагов субкласса. Субклассы могут переопрделять некоторые части алгоритма без изменения структуры
+
+[Пример паттерна](https://github.com/vladjong/L2/blob/develop/pattern/10_template_method.go "Template method")
 
 ## Builder
 
