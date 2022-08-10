@@ -1,9 +1,9 @@
 # Go Interview
 
-## [Basic](https://github.com/vladjong/L2/blob/develop/pattern/09_decorator.go "Decorator")
+## [Basic](https://github.com/vladjong/GoInterview/tree/main/Go "Decorator")
 
-## [OOP](https://github.com/vladjong/L2/blob/develop/pattern/09_decorator.go "Decorator")
+## [OOP](https://github.com/vladjong/GoInterview/tree/main/OOP "Decorator")
 
-## [Multithreading](https://github.com/vladjong/L2/blob/develop/pattern/09_decorator.go "Decorator")
+## [Multithreading](https://github.com/vladjong/GoInterview/tree/main/Multithreading "Decorator")
 
-## [Network](https://github.com/vladjong/L2/blob/develop/pattern/09_decorator.go "Decorator")
+## [Network](https://github.com/vladjong/GoInterview/tree/main/Network "Decorator")
