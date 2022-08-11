@@ -10,7 +10,7 @@
 
 ## MPG
 
-![alt text](img/mpg.png)
+![alt text](../img/mpg.png)
 
 M - тред ОС "Machine"
 
@@ -48,7 +48,7 @@ https://morsmachine.dk/go-scheduler
 
 - не прерывает работу горутин
 
-![alt text](img/stil_work.png)
+![alt text](../img/stil_work.png)
 
 ## Ограничения планировщика Go
 
